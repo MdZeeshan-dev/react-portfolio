@@ -1,23 +1,25 @@
 const projects = [
   {
-    title: "Personal Portfolio",
+    title: "HireLog",
     points: [
-      "Built using React and Vite",
-      "Responsive layout with modern UI",
-      "Reusable components and clean structure",
+      "Track and manage job applications in one place",
+      "Add, edit and delete applications",
+      "Filter jobs by status and priority",
+      "Built with React and Tailwind CSS",
     ],
-    live: "#",
-    github: "#",
+    live: "https://hirelog-lemon.vercel.app/",
+    github: "https://github.com/MdZeeshan-dev/hirelog",
   },
   {
-    title: "Todo App",
+    title: "TaskFlow Dashboard",
     points: [
-      "Task management using React state",
-      "Add, delete and update todos",
-      "Focus on clean logic and UI clarity",
+      "Task and workflow management dashboard",
+      "Create, organize and update tasks",
+      "Responsive and user-friendly interface",
+      "Built with React and modern component architecture",
     ],
-    live: "#",
-    github: "#",
+    live: "https://taskflow-dashboard-wheat.vercel.app/",
+    github: "https://github.com/MdZeeshan-dev/taskflow-dashboard",
   },
 ];
 
