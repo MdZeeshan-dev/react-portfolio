@@ -1,11 +1,13 @@
 const projects = [
   {
-    title: "Personal Portfolio",
-    description: "A personal portfolio website built using React and Vite."
+    title: "HireLog",
+    description:
+      "A job application tracking system built with React and Tailwind CSS for managing and organizing job applications."
   },
   {
-    title: "Todo App",
-    description: "A simple task management app built with React using state and props."
+    title: "FlowCX",
+    description:
+      "A customer experience automation platform with a visual workflow builder and support ticket management dashboard."
   }
 ]
 

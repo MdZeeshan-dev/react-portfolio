@@ -11,15 +11,15 @@ const projects = [
     github: "https://github.com/MdZeeshan-dev/hirelog",
   },
   {
-    title: "TaskFlow Dashboard",
+    title: "FlowCX",
     points: [
-      "Task and workflow management dashboard",
-      "Create, organize and update tasks",
-      "Responsive and user-friendly interface",
-      "Built with React and modern component architecture",
+      "Visual workflow builder with drag-and-drop automation",
+      "Trigger, Message and Condition nodes",
+      "Support ticket management dashboard",
+      "Virtualized ticket table for large datasets",
     ],
-    live: "https://taskflow-dashboard-wheat.vercel.app/",
-    github: "https://github.com/MdZeeshan-dev/taskflow-dashboard",
+    live: "https://flow-cx.vercel.app/",
+    github: "https://github.com/MdZeeshan-dev/FlowCX",
   },
 ];
 
